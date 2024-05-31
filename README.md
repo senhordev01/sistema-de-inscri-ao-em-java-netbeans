@@ -1,1 +1,1 @@
-# sistema-de-inscri-ao-em-java-netbeans
+# sistema-de-inscriçao-em-java-netbeans
